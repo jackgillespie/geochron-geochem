@@ -1,5 +1,4 @@
-# geochron-geochem
-Geochronology and geochemistry data processing in R
+# Geochronology and geochemistry data processing in R
 
 
 
