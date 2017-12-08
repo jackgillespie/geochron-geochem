@@ -9,6 +9,10 @@ e.g. for trace elements measured for zircon vs apatite
 
 User endorsements:
 
-S. Armistead says: "Why does nothing work?"
-                   "Don't you ever comment your code?"
-                   "This doesn't even make sense!"
+S. Armistead says: 
+
+"Why does nothing work?"
+
+"Don't you ever comment your code?"
+
+"This doesn't even make sense!"
