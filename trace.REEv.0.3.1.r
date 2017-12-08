@@ -1,11 +1,11 @@
 # Trace element and REE plotter #
 # version 0.3.1  
-# 27/10/2017
+# 5/12/2017
 # basic edition, removed apatite specific discrimination plot code
 # group and age now different variables to allow non-unique ages
 
 
-# library path
+# library path - set this to install/access libraries
 .libPaths('D:/r/lib')
 
 #run these first time on a computer
@@ -70,12 +70,13 @@ Tm <- 0.0255
 Yb <- 0.170
 Lu <- 0.0254
 
-# working directory
+
+# working directory - set the folder you will open/save files to
 setwd('D:/r/Yen final plots')
 
 
 # import trace element data
-# specify sample name - identical to that found in 'source.file' iolite output
+# specify sample name - must be identical to that found in 'source.file' iolite output
 unknown.name <- "YP4"
 
 iolitedata <- read.delim("allyentrace.txt")
